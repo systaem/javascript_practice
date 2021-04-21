@@ -1,2 +1,2 @@
 # javascript_practice
-Practice JavaScript.
+Studying JavaScript with Nicolas.
